@@ -1,0 +1,12 @@
+E:\XML\XML\bin\Debug\XML.exe.config
+E:\XML\XML\bin\Debug\XML.exe
+E:\XML\XML\bin\Debug\XML.pdb
+E:\XML\XML\obj\Debug\XML.csprojResolveAssemblyReference.cache
+E:\XML\XML\obj\Debug\XML.Form1.resources
+E:\XML\XML\obj\Debug\XML.Properties.Resources.resources
+E:\XML\XML\obj\Debug\XML.csproj.GenerateResource.Cache
+E:\XML\XML\obj\Debug\XML.csproj.CoreCompileInputs.cache
+E:\XML\XML\obj\Debug\XML.exe
+E:\XML\XML\obj\Debug\XML.pdb
+E:\XML\XML\bin\Debug\Database.mdf
+E:\XML\XML\bin\Debug\Database_log.ldf
